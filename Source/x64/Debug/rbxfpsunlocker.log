@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312: 'type cast': conversion from 'T' to 'const void *' of greater size
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:         with
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:         [
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:             T=uint32_t
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\main.cpp(172,14): warning C4312: 'type cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\main.cpp(178,37): warning C4101: 'e': unreferenced local variable
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\main.cpp(369,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  procutil.cpp
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312: 'type cast': conversion from 'T' to 'const void *' of greater size
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:         with
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:         [
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:             T=uint32_t
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.h(71,86): warning C4312:         ]
+  (compiling source file 'procutil.cpp')
+  
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\procutil.cpp(141,45): warning C4101: 'e': unreferenced local variable
+  settings.cpp
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\settings.cpp(67,28): warning C4101: 'e': unreferenced local variable
+  sigscan.cpp
+  ui.cpp
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\ui.cpp(266,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  version.cpp
+  Generating Code...
+C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\Source\main.cpp(464,1): warning C4715: 'WinMain': not all control paths return a value
+  rbxfpsunlocker.vcxproj -> C:\Users\lx\Downloads\rbxfpsunlocker-4.3.0\rbxfpsunlocker-4.3.0\x64\Debug\rbxfpsunlocker.exe
